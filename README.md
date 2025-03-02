@@ -27,7 +27,6 @@ The system uses:
 
 - Python 3.8+
 - Groq API key (for accessing Llama3 model)
-- Internet connection
 
 ## Installation
 
@@ -46,7 +45,7 @@ On Mac/Linux: venv/bin/activate
 
 3. Install required packages:
 ```bash
-pip install chromadb sentence-transformers requests python-dotenv
+pip install -r requirements.txt
 ```
 
 4. Create a `.env` file in the project root directory and add your Groq API key:

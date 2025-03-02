@@ -75,7 +75,82 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-5. Create a folder named `data` in the project root and add your product and policy text files. For this assessment I ahve added my own custom txt file swith 5 products and a txt file for company policies.
+5. Create a folder named `data` in the project root and add your product and policy text files. For this assessment I havve added my own custom txt file swith 5 products and a txt file for company policies. They are as follows:
+
+policy.txt
+```
+Company Policy
+Our company is committed to providing high-quality products and exceptional customer service. We prioritize customer satisfaction, transparency, and ethical business practices. Our policies are designed to ensure a smooth shopping experience while maintaining fairness for both customers and the company.
+
+- Customer Support: Our team is available Monday to Friday from 9 AM to 6 PM to assist with any inquiries.
+- Privacy Policy: Customer data is securely stored and never shared with third parties without consent.
+- Warranty: All electronic products come with a one-year limited warranty covering manufacturing defects.
+- Shipping: Orders are processed within 24-48 hours. Shipping times may vary based on location.
+
+Return Policy
+We strive to ensure our customers are satisfied with their purchases. If you are not completely satisfied, you may return the product under the following conditions:
+
+- Eligibility: Products must be returned within 30 days of purchase.
+- Condition: Items must be in their original packaging, unused, and in resalable condition.
+- Non-Returnable Items: Digital goods, gift cards, and personalized items are non-refundable.
+- Refund Process: Refunds will be processed within 7-10 business days after the returned product is received and inspected.
+- Return Shipping: Customers are responsible for return shipping costs unless the product is defective or incorrect.
+
+For any return or refund requests, please contact our support team with your order details.
+```
+
+products.txt
+```
+Product: UltraPhone X
+Price: $799
+Features: 6.5" OLED display, 128GB storage, 12MP camera
+Colors: Black, Silver, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: SmartTab 10
+Price: $499
+Features: 10" LCD display, 256GB storage, 8MP camera
+Colors: Gray, White, Gold
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: NoiseFit Pro
+Price: $199
+Features: 1.8" AMOLED display, Heart rate monitor, GPS tracking
+Colors: Black, Red, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: SonicBuds 2
+Price: $149
+Features: Active noise cancellation, 24-hour battery life, Wireless charging
+Colors: White, Black, Green
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: PowerBank 20K
+Price: $59
+Features: 20,000mAh capacity, Fast charging, Dual USB-C ports
+Colors: Black, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+```
 
 ## Usage
 

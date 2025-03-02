@@ -50,13 +50,3 @@ collection.upsert(
     embeddings=chunk_embeddings  
 )
 
-query = "What is your return policy?"
-
-query_embedding = embedding_model.encode([query]).tolist()
-
-results = collection.query(
-    query_embeddings=query_embedding,
-    n_results=3  
-)
-
-print(results)

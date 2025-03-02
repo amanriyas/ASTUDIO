@@ -54,7 +54,7 @@ To use this application, you'll need a Groq API key to access the Llama3 model. 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/customer-support-ai.git
+git clone https://github.com/amanriyas/ASTUDIO.git
 cd ASTUDIO
 ```
 

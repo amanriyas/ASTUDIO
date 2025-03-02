@@ -47,7 +47,7 @@ collection.upsert(
     documents=chunk_texts,
     metadatas=chunk_metadata,
     ids=chunk_ids,
-    embeddings=chunk_embeddings  # Now storing vectors
+    embeddings=chunk_embeddings  
 )
 
 query = "What is your return policy?"
@@ -56,7 +56,7 @@ query_embedding = embedding_model.encode([query]).tolist()
 
 results = collection.query(
     query_embeddings=query_embedding,
-    n_results=3  # Retrieve top 3 most relevant chunks
+    n_results=3  
 )
 
 print(results)

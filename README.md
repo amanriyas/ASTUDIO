@@ -60,22 +60,27 @@ cd ASTUDIO
 
 2. Create a virtual environment (recommended):
 ```bash
-python -m venv venv
+On Windows: python -m venv venv
+On Mac/Linux: python3 -m venv venv
+```
+3. Activate the virtual environment:
+```
 On Windows: venv\Scripts\activate
 On Mac/Linux: venv/bin/activate
 ```
+NOTE: Configure your IDE to recognize the Python interpreter in the created virtual environment.
 
-3. Install required packages:
+4. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file in the project root directory and add your Groq API key:
+5. Create a `.env` file in the project root directory and add your Groq API key:
 ```
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-5. Create a folder named `data` in the project root and add your product and policy text files. For this assessment I havve added my own custom txt file swith 5 products and a txt file for company policies. They are as follows:
+6. Create a folder named `data` in the project root and add your product and policy text files. For this assessment I havve added my own custom txt file swith 5 products and a txt file for company policies. They are as follows:
 
 policy.txt
 ```

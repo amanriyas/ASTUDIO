@@ -50,7 +50,7 @@ collection.upsert(
     embeddings=chunk_embeddings  # Now storing vectors
 )
 
-query = "How much does the Galaxy phone cost?"
+query = "What is your return policy?"
 
 query_embedding = embedding_model.encode([query]).tolist()
 

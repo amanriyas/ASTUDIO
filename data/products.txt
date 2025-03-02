@@ -1,0 +1,49 @@
+Product: UltraPhone X
+Price: $799
+Features: 6.5" OLED display, 128GB storage, 12MP camera
+Colors: Black, Silver, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: SmartTab 10
+Price: $499
+Features: 10" LCD display, 256GB storage, 8MP camera
+Colors: Gray, White, Gold
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: NoiseFit Pro
+Price: $199
+Features: 1.8" AMOLED display, Heart rate monitor, GPS tracking
+Colors: Black, Red, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: SonicBuds 2
+Price: $149
+Features: Active noise cancellation, 24-hour battery life, Wireless charging
+Colors: White, Black, Green
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50
+
+Product: PowerBank 20K
+Price: $59
+Features: 20,000mAh capacity, Fast charging, Dual USB-C ports
+Colors: Black, Blue
+Availability: In stock
+Shipping Policy:
+Standard shipping (3-5 business days): $4.99
+Express shipping (1-2 business days): $12.99
+Free standard shipping on orders over $50

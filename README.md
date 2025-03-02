@@ -28,6 +28,28 @@ The system uses:
 - Python 3.8+
 - Groq API key (for accessing Llama3 model)
 
+## Getting a Groq API Key
+To use this application, you'll need a Groq API key to access the Llama3 model. Follow these steps to obtain one:
+
+1. Create a Groq Account:
+
+- Visit Groq's website and sign up for an account
+- Complete the registration process with your email and password
+
+
+2. Access the API Key:
+
+- After registration and login, navigate to the API section of your account dashboard
+- Look for "API Keys" or similar section
+- Click on "Create API Key" or "Generate New Key"
+- Give your key a name (e.g., "Customer Support AI")
+
+
+3. Copy Your API Key:
+
+- Once generated, copy the API key to your clipboard
+- Important: Store this key securely as it may only be displayed once
+
 ## Installation
 
 1. Clone this repository:

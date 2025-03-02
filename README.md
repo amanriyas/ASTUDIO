@@ -75,43 +75,47 @@ python ask.py
 ```
 Welcome ASTUDIO Customer Support!
 What queries do you have? (Enter 'Q' to quit)
-How much does the UltraPhone X cost?
+How much does the UltraPhone X cost and what are it's features?
 
 ---------------------
 
-The UltraPhone X costs $799. It's available in three colors: Black, Silver, and Blue. The phone features a 6.5" OLED display, 128GB storage, and a 12MP camera. It's currently in stock and ready to ship.
+The UltraPhone X is priced at $799. As for its features, it comes with a 6.5" OLED display, 128GB of storage, and a 12MP camera.
 
 ---------------------
 ```
 
 ### Example 2: Shipping Policy Query
 ```
-Welcome ASTUDIO Customer Support!
 What queries do you have? (Enter 'Q' to quit)
 What are your shipping options?
 
 ---------------------
 
-We offer two shipping options:
-1. Standard shipping (3-5 business days) for $4.99
-2. Express shipping (1-2 business days) for $12.99
-
-Good news! Orders over $50 qualify for free standard shipping.
+We offer two shipping options for your convenience. Our Express Shipping option takes 1-2 business days and costs $12.99. Additionally, we offer Free Standard Shipping on all orders over $50.
 
 ---------------------
 ```
 
 ### Example 3: Return Policy Query
 ```
-Welcome ASTUDIO Customer Support!
-What queries do you have? (Enter 'Q' to quit)
-Can I return a product if I don't like it?
+What are your return policies?
 
 ---------------------
 
-Yes, you can return a product if you're not satisfied with it. Our return policy allows returns within 30 days of purchase for a full refund. The product must be in its original condition with all packaging. Please note that shipping costs are non-refundable. Contact our customer service team to initiate a return.
+Our return policy is designed to provide our customers with a hassle-free experience. We accept returns within 30 days of delivery for all products.
+
+To initiate a return, please contact our customer support team and provide us with your order number, the reason for the return, and whether you would like a refund, exchange, or store credit.
+
+The item must be in its original condition, with all original tags and packaging intact. We also require that the item is in a resellable condition.
+
+Once we receive the returned item, we will process your refund or exchange within 5-7 business days. Refunds will be issued in the original form of payment.
+
+Please note that some products may have a restocking fee, which will be deducted from your refund. This will be clearly stated on the product page and in your order confirmation email.
+
+If you have any further questions or concerns about our return policy, please don't hesitate to reach out to us. We're here to help!
 
 ---------------------
+
 ```
 
 
